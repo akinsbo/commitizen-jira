@@ -6,7 +6,7 @@ Run:
 
 ```shell
 
-npm install -d cz-jira-smart-commit
+npm install --save-dev cz-jira-smart-commit
 
 ```
 
@@ -20,7 +20,7 @@ Reference it in your .cz.json of your project
 
 ```
 
-Commit with: 
+Commit with:
 
 ```shell
 
